@@ -1,1 +1,1 @@
-Atcoderスニペット集
+Atcoderスニペット
